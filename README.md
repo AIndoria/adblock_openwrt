@@ -5,7 +5,7 @@ A simple adblocker script for OpenWRT Routers. Blocks ads on every single device
 
 Assuming that you have OpenWRT installed on your router. Switch to any directory, except /tmp/
 
-  <code>cd /root/</code>
+  <code>cd /root/</code><br>
   <code>curl -O -L https://raw.githubusercontent.com/AIndoria/adblock_openwrt/master/adblock.sh</code>
   
 Make the file executable
