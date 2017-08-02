@@ -15,3 +15,7 @@ Run it<br>
   <code>./adblock.sh</code>
 
 Wait a while, you should be dropped back to the root prompt again after a while depending on your internet speed. Success! You can double check that this got installed <code>chrontab -l</code> command at prompt.
+
+Q: Hey, so what's different than TableSpoon's script?
+<br>
+A: This consolidates all the hostfiles used for adblocking in one file, clears redundancies, and automatically updates them periodically.
