@@ -8,10 +8,10 @@ Assuming that you have OpenWRT installed on your router. Switch to any directory
   <code>cd /root/</code><br>
   <code>curl -O -L https://raw.githubusercontent.com/AIndoria/adblock_openwrt/master/adblock.sh</code>
   
-Make the file executable
+Make the file executable<br>
   <code>chmod +x adblock.sh</code>
   
-Run it
+Run it<br>
   <code>./adblock.sh</code>
 
 Wait a while, you should be dropped back to the root prompt again after a while depending on your internet speed. Success! You can double check that this got installed <code>chrontab -l</code> command at prompt.
